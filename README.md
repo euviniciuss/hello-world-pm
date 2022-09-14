@@ -1,6 +1,11 @@
 ## 📦Projeto
 Este projeto é um **Hello World** simples feito com React Native!
 
+## 👥Integrantes da Equipe
+- Marcus Vinicius Siva Costa
+- Maximo Arthuro
+- Edigar Gonçalves da Silva
+
 ## 📄Prints
 Alguns prints da aplicação rodando no Expo em um celular IOS
 <p align="center">
