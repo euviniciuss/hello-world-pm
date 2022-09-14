@@ -1,6 +1,13 @@
 ## 📦Projeto
 Este projeto é um **Hello World** simples feito com React Native!
 
+## 📄Prints
+Alguns prints da aplicação rodando no Expo em um celular IOS
+<p align="center">
+  <img src="./.github/Hello_World_print.jpeg" width="35%">
+  <img src="./.github/Expo_Print.jpeg" width="35%">
+</p>
+
 ## ▶️Como rodar
   ### **Pré-requisitos**
   - É **necessário** possuir o **[Expo](https://docs.expo.dev/)** instalado na sua máquina.
